@@ -1,8 +1,8 @@
 
 cookbook/*.pdf
-docs/product.qmd
-docs/l-shaped-slides.qmd
+docs/*_files/
 docs/*.html
+docs/*.pdf
 _output/
 
 # Created by https://www.gitignore.io/api/julia,macos
